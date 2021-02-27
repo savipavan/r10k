@@ -1,3 +1,6 @@
+Ref Docs ://puppet.com/docs/pe/2019.8/r10k.html
+
+
 Install r10k
 /opt/puppetlabs/puppet/bin/gem install r10k
 
